@@ -8,7 +8,7 @@ updater = Updater( Token ,use_context = True )
 def start(updater,context):
  updater.message.reply_text('''
  
- Hello, "member.full_name"! 👋 "first_name"! 👋
+ Hello, @user! 👋  👋
 
 Welcome to the VIP community.
 
