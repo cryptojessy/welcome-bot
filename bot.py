@@ -7,7 +7,7 @@ updater = Updater( Token ,use_context = True )
 
 def start(updater,context):
  updater.message.reply_text('''Hi iam welcome messanger bot 
-Add me to your group 
+Add me to your group  testvame tuka gluposti
  
  Made with Love ❤️ by @lntechnical
 
