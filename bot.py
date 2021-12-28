@@ -8,7 +8,7 @@ updater = Updater( Token ,use_context = True )
 def start(updater,context):
  updater.message.reply_text('''
  
- Hello!!! 👋  👋
+ Hello, {member.full_name} 👋  👋
 
 Welcome to the VIP community.
 
@@ -29,14 +29,22 @@ This is basic info about a form of Signal you need to know
 
 You need to know that you need to spend a maximum of 5% of your money on each signal.
  
-
+ 
+ 
+ 
+ 
+ 
+ Hi iam welcome messanger bot 
+Add me to your group  testvame tuka gluposti
+ 
+ Made with Love ❤️ by @lntechnical
 
   ''')
  
  
  
  
-def start(updater,context):
+def help(updater,context):
  updater.message.reply_text("Add me to your group ")
  
 
@@ -49,7 +57,7 @@ updater.dispatcher.add_handler(add_group_handle)
 
 dp =updater.dispatcher.add_handler
 dp(CommandHandler('start',start))
-dp(CommandHandler('start',start))
+dp(CommandHandler('help',help))
 
 updater.start_polling()
 updater.idle()
