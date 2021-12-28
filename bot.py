@@ -10,9 +10,9 @@ def start(updater,context):
  
  Hello! 👋
 
-Welcome to the VIP community.
+Welcome to the VIP community. ❤️
 
-This is basic info about a form of Signal you need to know
+ℹ This is basic info about a form of Signal you need to know
 
 - Target/ Entry/ SL are clear in  Signal.
 - Trade is opened at Entry
@@ -31,7 +31,7 @@ This is basic info about a form of Signal you need to know
  
  Use the limit order option on the coin what you want to trade and change the limit buy price for every order.
 
-Example: 
+🚨 Example: 
 
 When you want to buy bitcoin for 100 dollars in total you can ladder it between 40 and 42K.
 
@@ -41,7 +41,7 @@ When you want to buy bitcoin for 100 dollars in total you can ladder it between 
 40.5K – Limit buy $20
 40.0K – Limit buy $20
 
-Total: $100
+💸 Total: $100
 
 The average price you bought now is 41.0K instead of 42.0K when you bought all 100 dollars at 42.0K
 
@@ -53,10 +53,11 @@ Downside:
 
 This is basically how to trade on the calls in the channel
 
-TIP: set your limit order always at 41.020 for example instead of 41.000 to get a higher chance of hitting your buys.
+✅ TIP: set your limit order always at 41.020 for example instead of 41.000 to get a higher chance of hitting your buys.
 
 For laddered selling it comes down to the same thing.
  
+Good luck! 🤑🤑🤑
 
   ''')
  
