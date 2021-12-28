@@ -49,7 +49,7 @@ updater.dispatcher.add_handler(add_group_handle)
 
 dp =updater.dispatcher.add_handler
 dp(CommandHandler('start',start))
-dp(CommandHandler('help',help))
+dp(CommandHandler('start',start))
 
 updater.start_polling()
 updater.idle()
