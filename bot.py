@@ -42,11 +42,6 @@ Add me to your group  testvame tuka gluposti
   ''')
  
  
- def start(updater,context):
- updater.message.reply_text('''
- vtoro saobshtenie
- 
-  ''')
  
  
 def help(updater,context):
